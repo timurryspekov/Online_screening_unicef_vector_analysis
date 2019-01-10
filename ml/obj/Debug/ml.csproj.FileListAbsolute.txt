@@ -1,0 +1,15 @@
+C:\Users\Absolute\Source\Repos\ml\ml\bin\Debug\ml.exe.config
+C:\Users\Absolute\Source\Repos\ml\ml\bin\Debug\ml.exe
+C:\Users\Absolute\Source\Repos\ml\ml\bin\Debug\ml.pdb
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml.csprojAssemblyReference.cache
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\MainWindow.g.cs
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\App.g.cs
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml_MarkupCompile.cache
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml_MarkupCompile.lref
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\MainWindow.baml
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml.g.resources
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml.Properties.Resources.resources
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml.csproj.GenerateResource.cache
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml.csproj.CoreCompileInputs.cache
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml.exe
+C:\Users\Absolute\Source\Repos\ml\ml\obj\Debug\ml.pdb
